@@ -8,4 +8,4 @@
 
 - 💬 Ask me about JavaScript, React and VueJs.
 
-- 📫 How to reach me: **Twitter:** <a href="https://twitter.com/pepoeverton" target="_blank">@pepoeverton</a> **E-mail:** everton.code@gmail.com
+- 📫 How to reach me: **Twitter:** [@pepoeverton](https://twitter.com/pepoeverton) **E-mail:** everton.code@gmail.com
