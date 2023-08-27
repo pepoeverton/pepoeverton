@@ -13,4 +13,4 @@
 
 ---
 
-![Everton Nunes's GitHub stats](https://github-readme-stats.vercel.app/api?username=pepoeverton&show_icons=true)
+![Everton Nunes's GitHub stats](https://github-readme-stats.vercel.app/api?username=pepoeverton&theme=buefy&show_icons=true)
