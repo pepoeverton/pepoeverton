@@ -1,12 +1,16 @@
-### Hi there 👋
+### Hey there 👋👋👋
 
-- 🌱 I’m currently learning Go and distributed systems.
+**A little bit about me:**
+- 🏢 I'm currently working as a Frontend Engineer at HelloFresh.
+- 🌱 I’m learning more about design patterns, software architecture, and observability.
+- 👯 I'm looking to collaborate on developer tooling or any project that helps people.
+- 💬 Ask me about anything.
 
-- 👯 I'm looking to collaborate on any project that helps people.
+🌐 **Social:**
+  - [LinkedIn](https://www.linkedin.com/in/evertonn)
+  - [medium](https://medium.com/@everton.nunes)
+  - [dev.to](https://dev.to/pepoeverton)
 
-- 💬 Ask me about Web, JavaScript, TypeScript, React and Vue.js.
+---
 
-- 📫 How to reach me:
-  - **E-mail:** everton.code@gmail.com
-  - **Twitter:** [@pepoeverton](https://twitter.com/pepoeverton)
-  - **LinkedIn:** https://www.linkedin.com/in/evertonn
+![Everton Nunes's GitHub stats](https://github-readme-stats.vercel.app/api?username=pepoeverton&show_icons=true)
